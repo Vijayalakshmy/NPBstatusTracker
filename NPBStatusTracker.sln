@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NPBStatusTracker", "NPBStatusTracker\NPBStatusTracker.pyproj", "{B763EF23-4A80-45AA-B2DC-D65330D65FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B763EF23-4A80-45AA-B2DC-D65330D65FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B763EF23-4A80-45AA-B2DC-D65330D65FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B763EF23-4A80-45AA-B2DC-D65330D65FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B763EF23-4A80-45AA-B2DC-D65330D65FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C185AE96-43C1-4566-8652-59DEE89D9C6C}
+	EndGlobalSection
+EndGlobal
